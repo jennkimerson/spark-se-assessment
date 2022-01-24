@@ -5,7 +5,14 @@
 ### Basics
 
 1. Activate a virtualenv
+```
+python3 -m venv venv
+. venv/bin/activate
+```
 1. Install the requirements
+```
+pip install -r requirements.txt
+```
 
 ### Set Environment Variables
 
