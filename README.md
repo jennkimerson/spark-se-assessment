@@ -51,3 +51,8 @@ So access the application at the address [http://localhost:5000/](http://localho
 > ```sh
 > $ flask run --host=0.0.0.0 --port=5000
 > ```
+
+You can run the entire command by utilizing the launch.sh file
+```
+./launch.sh
+```
