@@ -7,4 +7,4 @@ flask db migrate
 flask db upgrade
 # flask run --host=127.0.0.1 --port=5000
 # flask run 
-flask run --host=127.0.0.1 --port=$PORT
+flask run --host=$HOST --port=$PORT
